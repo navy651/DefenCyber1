@@ -9,3 +9,6 @@ This folder contains my work for Activity A5, where I explored real cryptographi
 
 ## Summary
 I analysed how modern online communication is secured using TLS 1.3, strong cipher suites (AES-GCM, ChaCha20-Poly1305), certificate authorities, and secure key exchange mechanisms.
+
+## Website
+I use https://www.youtube.com/ for example
